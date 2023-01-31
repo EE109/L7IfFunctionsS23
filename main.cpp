@@ -1,3 +1,10 @@
+/************************************************
+* Alabama A&M University - EE109 - Spring 2023
+* Lesson 7 - Intro to Functions
+* Last Updated: 31 Jan 2023
+* By: Prof. J Zehnpfennig, PE
+************************************************/  
+
 #include <iostream>
 #include <string>
 
